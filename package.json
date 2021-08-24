@@ -1,0 +1,22 @@
+{
+  "name": "lit-jest-babel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Counter.js",
+  "dependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "lit": "^2.0.0-rc.3",
+    "lit-element": "^2.5.1",
+    "lit-html": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
