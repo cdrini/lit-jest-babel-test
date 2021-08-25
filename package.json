@@ -5,9 +5,11 @@
   "main": "Counter.js",
   "dependencies": {
     "@babel/preset-env": "^7.15.0",
+    "core-js": "^3.16.3",
     "lit": "^2.0.0-rc.3",
     "lit-element": "^2.5.1",
-    "lit-html": "^1.4.1"
+    "lit-html": "^1.4.1",
+    "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
     "babel-jest": "^27.0.6",
